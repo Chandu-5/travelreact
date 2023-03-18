@@ -1,7 +1,7 @@
 {
   "name": "travel",
   "version": "0.1.0",
-  "homepage": "https://chandu-5.github.io/Travel-react",
+  "homepage": "https://chandu-5.github.io/travelreact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
